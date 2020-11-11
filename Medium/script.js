@@ -9,7 +9,7 @@ const cutPizzaSlices = function(numOfSlices){
 
 let sharePizza = cutPizzaSlices(8);
 console.log(sharePizza(2));        
-console.log(sharePizza(4)); 
+console.log(sharePizza(3)); 
 
 
 
